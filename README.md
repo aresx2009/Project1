@@ -2,7 +2,7 @@
 
 
 # **Healthy Quarantine Recipes**
-Find the link for our website [here](https://vjeuel.github.io/food_api_app/)
+Find the link for our website [here](https://aresx2009.github.io/Project1/)
 
 
 ## **Project Description**
@@ -19,5 +19,5 @@ In the center, you can find where to search for recipes based on what food is on
 
 ## **Credits**
 - Spoonacular API
-- NewsApi
+- Bing News API
 - TheCocktailDB API
